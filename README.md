@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Bhuvaneshvar is capital of Odisha.
 
 
-[My Portfolio](bhuvancom.github.io)
+[My Portfolio](https://bhuvancom.github.io)
